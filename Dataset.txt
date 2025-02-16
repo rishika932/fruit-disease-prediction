@@ -1,0 +1,6 @@
+Fruit:
+https://www.kaggle.com/datasets/shashwatwork/fruitnet-indian-fruits-dataset-with-quality/code
+https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification
+
+Plant Leaf:
+https://data.mendeley.com/datasets/tywbtsjrjv/1
